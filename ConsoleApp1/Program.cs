@@ -14,7 +14,7 @@ namespace ConsoleApp1
             Console.WriteLine("Hello World !!");
             Console.WriteLine("Hi All !!!");
             Console.WriteLine("Imed Eddine Benzarti");
-            Console.WriteLine("AAAAAA");
+            
             Console.ReadLine();
 
         }
